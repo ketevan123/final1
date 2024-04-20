@@ -1,9 +1,11 @@
 
+
 header {
     justify-content: space-between;
     align-items: center;
     display: flex;
     margin-right: 20px;
+    
 }
 .headertitle {
     font-size: 40px;
@@ -39,12 +41,7 @@ header {
     margin:  0 24px 22px 24px;
 }
 /* burger */
-.planet-cirle {
-    height: 20px;
-    width: 20px;
-    border-radius: 50%;
-    margin: 0 0 23px 24px;
-}
+
 .burger-btn-list {
     position: absolute;
     padding-top: 44px;
@@ -90,6 +87,7 @@ header {
 
 /* /header */
 /* main */
+
 .main-img {
     text-align: center;
     justify-content: space-between;
@@ -162,6 +160,7 @@ header {
     padding: 28px 24px 48px 24px;
     width: 100%;
     gap: 8px;
+    
 }
 .last-container {
     display: flex;
@@ -171,6 +170,7 @@ header {
     height: 46px;
     padding-right: 24px;
     align-items: center;
+    
 }
 .footer-text {
     opacity: 0.5;
